@@ -2,7 +2,11 @@ hassan
 second line
 third line
 <<<<<<< HEAD
+<<<<<<< HEAD
 4th line tariq
 =======
 4th line hassan
 >>>>>>> b5912734a1e152c127437ff5f6dee23019ba3a20
+=======
+4th line hassan tariq
+>>>>>>> 79ce81f29f04564adb505476de0e0ae664987d95
